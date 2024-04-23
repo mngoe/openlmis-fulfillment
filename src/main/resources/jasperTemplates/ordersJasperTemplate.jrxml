@@ -63,8 +63,7 @@
 					<font size="16" isBold="false"/>
 					<paragraph lineSpacing="Double" lineSpacingSize="2.0"/>
 				</textElement>
-				<text><![CDATA[Ministry of Health and Social Welfare
-Issue Voucher for Medical Supplies (PH81-N/E)]]></text>
+				<text><![CDATA[MINISTER OF PUBLIC HEALTH IN CAMEROON]]></text>
 			</staticText>
 		</band>
 	</title>
@@ -77,10 +76,7 @@ Issue Voucher for Medical Supplies (PH81-N/E)]]></text>
 					<font size="10"/>
 					<paragraph lineSpacing="Fixed" lineSpacingSize="12.0"/>
 				</textElement>
-				<text><![CDATA[To The Managing Director
-Medical Stores Ltd.
-Lusaka
-Fax numbers: 01-241193,01-246288]]></text>
+				<text><![CDATA[To The Managing Director]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="321" y="40" width="80" height="15" uuid="2ebe95a1-27cc-45b6-86c0-4fe603b2a68c"/>
